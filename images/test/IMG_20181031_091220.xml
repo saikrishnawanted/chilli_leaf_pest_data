@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pest</folder>
+  <filename>IMG_20181031_091220</filename>
+  <path>C:\Users\Sai Krishna\Desktop\Data\Chilli\Experimentation\pest\IMG_20181031_091220.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>thrips</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>37</xmin>
+      <ymin>1962</ymin>
+      <xmax>1251</xmax>
+      <ymax>2414</ymax>
+    </bndbox>
+  </object>
+</annotation>

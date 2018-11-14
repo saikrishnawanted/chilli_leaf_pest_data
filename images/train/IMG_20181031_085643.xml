@@ -1,0 +1,38 @@
+<annotation>
+  <folder>pest</folder>
+  <filename>IMG_20181031_085643</filename>
+  <path>C:\Users\Sai Krishna\Desktop\Data\Chilli\Experimentation\pest\IMG_20181031_085643.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4160</width>
+    <height>3120</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2006</xmin>
+      <ymin>1964</ymin>
+      <xmax>2387</xmax>
+      <ymax>3098</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>mite</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2349</xmin>
+      <ymin>1883</ymin>
+      <xmax>2825</xmax>
+      <ymax>2969</ymax>
+    </bndbox>
+  </object>
+</annotation>
